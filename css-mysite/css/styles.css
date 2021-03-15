@@ -1,3 +1,33 @@
 body{
-  background-color: #440a67;
+  background-color: white;
+  margin:0;
+}
+
+.top{
+  background-color: #810000;
+  height: 200px;
+  width:300px;
+  padding: 10px;
+  border:solid 10px;
+  margin:10px
+}
+
+.middle{
+  background-color: #eeebdd;
+  height: 200px;
+  width:200px;
+  padding: 40px;
+
+}
+
+.bottom{
+  background-color: #fed049;
+  height: 200px;
+  width:200px;
+  padding: 40px;
+
+}
+
+h1{
+  margin-top:0;
 }
